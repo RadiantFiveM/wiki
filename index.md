@@ -3,18 +3,18 @@
 layout: home
 
 hero:
-  name: "Radiant RP Wiki"
+  name: "RadiantRP Wiki"
   text: "De casual maar diepgaande RP server"
   image:
     src: /flames-animated.svg
     alt: Logo
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Verken de wiki
+      link: /wiki-src/w-welkom
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Over ons
+      link: /
 
 features:
   - title: Feature A

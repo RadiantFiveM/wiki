@@ -9,22 +9,27 @@ export default defineConfig({
 		["meta", { name: "description", content: "De casual maar diepgaande RP server" }],
 	],
 
-	title: "Radiant RP Wiki",
+	title: "RadiantRP Wiki",
 	description: "De casual maar diepgaande RP server",
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		nav: [
 			{ text: "Home", link: "/" },
-			{ text: "Examples", link: "/markdown-examples" },
+			{ text: "Wiki", link: "/wiki-src/w-welkom" },
 		],
 
 		sidebar: [
 			{
-				text: "Examples",
+				text: "Algemeen",
 				items: [
-					{ text: "Markdown Examples", link: "/markdown-examples" },
-					{ text: "Runtime API Examples", link: "/api-examples" },
+					{ text: "Overzicht", link: "/wiki-src/w-welkom" },
 				],
+			},
+			{
+				text: "Eerste bezoek",
+				items: [
+					{ text: "Karakterkiezer", link: "/wiki-src/w-karakterkiezer" },
+				]
 			},
 		],
 
