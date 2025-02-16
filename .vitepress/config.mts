@@ -15,24 +15,28 @@ export default defineConfig({
 		// https://vitepress.dev/reference/default-theme-config
 		nav: [
 			{ text: "Home", link: "/" },
-			{ text: "Wiki", link: "/wiki-src/w-welkom" },
+			{ text: "Wiki", link: "/overzicht" },
 		],
 
 		sidebar: [
 			{
 				text: "Algemeen",
 				items: [
-					{ text: "Overzicht", link: "/wiki-src/w-welkom" },
+					{ text: "Overzicht", link: "/overzicht" },
 				],
 			},
 			{
 				text: "Eerste bezoek",
 				items: [
-					{ text: "Karakterkiezer", link: "/wiki-src/w-karakterkiezer" },
+					{ text: "Karakterkiezer", link: "/karakterkiezer" },
+					{ text: "Je appartement", link: "/appartement"},
+					{ text: "Startersauto", link: "/startersauto"}
 				]
 			},
 		],
 
-		socialLinks: [{ icon: "github", link: "https://github.com/vuejs/vitepress" }],
+		socialLinks: [
+			{ icon: "discord", link: "https://discord.gg/4SKDnS6jKU" }
+		],
 	},
 });
