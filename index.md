@@ -11,18 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Verken de wiki
-      link: /wiki-src/w-welkom
-    - theme: alt
-      text: Over ons
-      link: /
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      link: /overzicht
 ---
 
 <!-- @format -->
