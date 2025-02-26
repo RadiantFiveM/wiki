@@ -21,7 +21,7 @@ De Radiant Roleplay Wiki is bedoeld om spelers te helpen bij het begrijpen van d
 
 Heb je vragen of loop je tegen een probleem aan? Neem contact op via:
 - Onze [Discord-server](https://discord.gg/4SKDnS6jKU) voor directe ondersteuning en community-discussies.
-- /report in het spel voor hulp van staff.
+- `/report` in het spel voor hulp van staff.
 
 ## 📜 Regels en Gedragscode
 
