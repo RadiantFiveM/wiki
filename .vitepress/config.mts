@@ -15,23 +15,29 @@ export default defineConfig({
 		// https://vitepress.dev/reference/default-theme-config
 		nav: [
 			{ text: "Home", link: "/" },
-			{ text: "Wiki", link: "/overzicht" },
+			{
+				text: "Wiki",
+				items: [
+					{ text: "Overzicht", link: "/overzicht" },
+					{ text: "Karakterkiezer", link: "/karakterkiezer" },
+					{ text: "Je appartement", link: "/appartement" },
+					{ text: "Startersauto", link: "/startersauto" },
+				],
+			},
 		],
 
 		sidebar: [
 			{
 				text: "Algemeen",
-				items: [
-					{ text: "Overzicht", link: "/overzicht" },
-				],
+				items: [{ text: "Overzicht", link: "/overzicht" }],
 			},
 			{
 				text: "Eerste bezoek",
 				items: [
 					{ text: "Karakterkiezer", link: "/karakterkiezer" },
-					{ text: "Je appartement", link: "/appartement"},
-					{ text: "Startersauto", link: "/startersauto"}
-				]
+					{ text: "Je appartement", link: "/appartement" },
+					{ text: "Startersauto", link: "/startersauto" },
+				],
 			},
 			{
 				text: "Belangrijke mechanics",
@@ -42,7 +48,32 @@ export default defineConfig({
 		],
 
 		socialLinks: [
-			{ icon: "discord", link: "https://discord.gg/4SKDnS6jKU" }
+			{ icon: "discord", link: "https://discord.gg/4SKDnS6jKU" },
+			{
+				icon: "github",
+				link: "https://github.com/RadiantFiveM/wiki",
+			},
 		],
+
+		search: {
+			provider: "local",
+		},
+		editLink: {
+			pattern: "https://github.com/RadiantFiveM/wiki/edit/main/:path",
+		},
+
+		footer: {
+			message:
+				"Radiant Roleplay is niet gelieerd aan of goedgekeurd door Take-Two Interactive, Rockstar North of enige andere rechthebbende. Alle gebruikte handelsmerken zijn eigendom van hun respectievelijke eigenaren.",
+			copyright: `© ${new Date().getFullYear()} Radiant Roleplay`,
+		},
+	},
+
+	lastUpdated: true,
+
+	markdown: {
+		// options for @mdit-vue/plugin-toc
+		// https://github.com/mdit-vue/mdit-vue/tree/main/packages/plugin-toc#options
+		toc: { level: [2, 3, 4, 5, 6] },
 	},
 });
