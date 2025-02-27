@@ -33,6 +33,12 @@ export default defineConfig({
 					{ text: "Startersauto", link: "/startersauto"}
 				]
 			},
+			{
+				text: "Belangrijke mechanics",
+				items: [
+					{ text: "Parkeren", link: "/parkeren" }
+				]
+			},
 		],
 
 		socialLinks: [
