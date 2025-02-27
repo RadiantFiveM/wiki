@@ -8,12 +8,12 @@ next: false
 
 # Overzicht
 
-Hier vind je een overzicht van de verschillende onderwerpen die je in de wiki kan vinden.
+Hier vind je een overzicht van de verschillende onderwerpen die je in de wiki kan vinden. Suggesties voor meer belangrijke onderwerpen zijn welkom.
 
 ### Eerste bezoek
 - [Karakterkiezer](/karakterkiezer.md)
 - [Je appartement](/appartement.md)
 - [Startersauto](/startersauto.md)
 
-### Algemene mechanics
+### Belangrijke mechanics
 - [Parkeren](/parkeren.md)
