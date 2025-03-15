@@ -20,4 +20,5 @@ Hier vind je een overzicht van de verschillende onderwerpen die je in de wiki ka
 - [De bank](/bank.md)
 
 ### De Hulpdiensten
+- [Politie](/politie.md)
 - [Ambulance](/ambulance.md)

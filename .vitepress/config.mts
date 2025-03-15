@@ -53,7 +53,7 @@ export default defineConfig({
 			{
 				text: "Hulpdiensten",
 				items: [
-					//{ text: "Politie", link: "/politie" },
+					{ text: "Politie", link: "/politie" },
 					{ text: "Ambulance", link: "/ambulance" },
 				]
 			}
