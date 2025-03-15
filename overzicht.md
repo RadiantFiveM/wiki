@@ -17,3 +17,4 @@ Hier vind je een overzicht van de verschillende onderwerpen die je in de wiki ka
 
 ### Belangrijke mechanics
 - [Parkeren](/parkeren.md)
+- [De bank](/bank.md)
