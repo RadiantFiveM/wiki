@@ -50,6 +50,13 @@ export default defineConfig({
 					{ text: "De bank", link: "/bank" },
 				]
 			},
+			{
+				text: "Hulpdiensten",
+				items: [
+					//{ text: "Politie", link: "/politie" },
+					{ text: "Ambulance", link: "/ambulance" },
+				]
+			}
 		],
 
 		socialLinks: [
