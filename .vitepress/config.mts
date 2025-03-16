@@ -56,6 +56,7 @@ export default defineConfig({
 				items: [
 					{ text: "Politie", link: "/politie" },
 					{ text: "Ambulance", link: "/ambulance" },
+					{ text: "Mechanic", link: "/mechanic" },
 				]
 			}
 		],

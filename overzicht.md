@@ -23,3 +23,4 @@ Hier vind je een overzicht van de verschillende onderwerpen die je in de wiki ka
 ### De Hulpdiensten
 - [Politie](/politie.md)
 - [Ambulance](/ambulance.md)
+- [Mechanic](/mechanic.md)
