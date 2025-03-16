@@ -48,6 +48,7 @@ export default defineConfig({
 				items: [
 					{ text: "Parkeren", link: "/parkeren" },
 					{ text: "De bank", link: "/bank" },
+					{ text: "Het depot", link: "/depot" },
 				]
 			},
 			{

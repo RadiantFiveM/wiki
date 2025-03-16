@@ -18,6 +18,7 @@ Hier vind je een overzicht van de verschillende onderwerpen die je in de wiki ka
 ### Belangrijke mechanics
 - [Parkeren](/parkeren.md)
 - [De bank](/bank.md)
+- [Het depot](/depot.md)
 
 ### De Hulpdiensten
 - [Politie](/politie.md)
