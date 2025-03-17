@@ -58,7 +58,7 @@ export default defineConfig({
 					{ text: "Ambulance", link: "/ambulance" },
 					{ text: "Mechanic", link: "/mechanic" },
 				]
-			}
+			},
 		],
 
 		socialLinks: [
