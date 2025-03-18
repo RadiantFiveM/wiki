@@ -1,3 +1,7 @@
+/*
+ *   Copyright (c) 2025 
+ *   All rights reserved.
+ */
 /** @format */
 
 import { defineConfig } from "vitepress";
@@ -42,7 +46,17 @@ export default defineConfig({
 			{
 				text: "Belangrijke mechanics",
 				items: [
-					{ text: "Parkeren", link: "/parkeren" }
+					{ text: "Parkeren", link: "/parkeren" },
+					{ text: "De bank", link: "/bank" },
+					{ text: "Het depot", link: "/depot" },
+				]
+			},
+			{
+				text: "Hulpdiensten",
+				items: [
+					{ text: "Politie", link: "/politie" },
+					{ text: "Ambulance", link: "/ambulance" },
+					{ text: "Mechanic", link: "/mechanic" },
 				]
 			},
 		],
