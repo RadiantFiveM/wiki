@@ -124,7 +124,7 @@ Hieronder vind je een overzicht van alle wetten die de politie van Radiant kan h
 Recidive-regelgeving
 
 ::: tip
-Recidive-regelgeving heeft enkele uitzonderingen en dat zijn de algemene verkeersregels. Dit betekent niet meer dat de alle verkeersovertredingen niet zomaar verhoogt kunnen worden door de Agent maar moeten goedkeuring krijgen van hoger af
+De recidive-regelgeving kent enkele uitzonderingen, waaronder de algemene verkeersregels. Dit betekent dat verkeersovertredingen niet automatisch zwaarder bestraft mogen worden door de agent; hiervoor is goedkeuring van hogerhand vereist
 :::
 - Tweede keer → Boete x1.5 en +50% celstraf
 - Derde keer→ Boete x2 en +100% celstraf
