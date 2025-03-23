@@ -59,6 +59,13 @@ export default defineConfig({
 					{ text: "Mechanic", link: "/mechanic" },
 				]
 			},
+			{
+				text: "Wetgeving & Regels",
+				items: [
+					{ text: "Wetgeving", link: "/wetboek" },
+					{ text: "Regels", link: "https://docs.google.com/document/d/1E5uJpI4kiDSeplWGKEwJ475EkW5C9O8tqX3W4oS1dqs/edit?usp=sharing" },
+				]
+			},
 		],
 
 		socialLinks: [

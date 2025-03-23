@@ -24,3 +24,6 @@ Hier vind je een overzicht van de verschillende onderwerpen die je in de wiki ka
 - [Politie](/politie.md)
 - [Ambulance](/ambulance.md)
 - [Mechanic](/mechanic.md)
+
+### Wetten & Weten
+- [Wetboek](/wetboek.md)
