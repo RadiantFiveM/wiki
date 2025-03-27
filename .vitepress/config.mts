@@ -1,7 +1,10 @@
-/*
- *   Copyright (c) 2025 
+/**
+ * Copyright (c) 2025
  *   All rights reserved.
+ *
+ * @format
  */
+
 /** @format */
 
 import { defineConfig } from "vitepress";
@@ -20,12 +23,46 @@ export default defineConfig({
 		nav: [
 			{ text: "Home", link: "/" },
 			{
-				text: "Wiki",
+				text: "Eerste bezoek",
 				items: [
-					{ text: "Overzicht", link: "/overzicht" },
 					{ text: "Karakterkiezer", link: "/karakterkiezer" },
 					{ text: "Je appartement", link: "/appartement" },
 					{ text: "Startersauto", link: "/startersauto" },
+				],
+			},
+			{
+				text: "Belangrijke mechanics",
+				items: [
+					{ text: "Parkeren", link: "/parkeren" },
+					{ text: "De bank", link: "/bank" },
+					{ text: "Het depot", link: "/depot" },
+				],
+			},
+			{
+				text: "Hulpdiensten",
+				items: [
+					{ text: "Politie", link: "/politie" },
+					{ text: "Ambulance", link: "/ambulance" },
+					{ text: "Mechanic", link: "/mechanic" },
+				],
+			},
+			{
+				text: "Wetgeving & Regels",
+				items: [
+					{ text: "Wetgeving", link: "/wetboek" },
+					{
+						text: "Regels",
+						link: "https://docs.google.com/document/d/1E5uJpI4kiDSeplWGKEwJ475EkW5C9O8tqX3W4oS1dqs/edit?usp=sharing",
+					},
+				],
+			},
+			{
+				text: "Developers",
+				items: [
+					{
+						text: "Articca",
+						items: [{ text: "Vulpic", link: "/devs/articca/vulpic" }],
+					},
 				],
 			},
 		],
@@ -49,7 +86,7 @@ export default defineConfig({
 					{ text: "Parkeren", link: "/parkeren" },
 					{ text: "De bank", link: "/bank" },
 					{ text: "Het depot", link: "/depot" },
-				]
+				],
 			},
 			{
 				text: "Hulpdiensten",
@@ -57,14 +94,26 @@ export default defineConfig({
 					{ text: "Politie", link: "/politie" },
 					{ text: "Ambulance", link: "/ambulance" },
 					{ text: "Mechanic", link: "/mechanic" },
-				]
+				],
 			},
 			{
 				text: "Wetgeving & Regels",
 				items: [
 					{ text: "Wetgeving", link: "/wetboek" },
-					{ text: "Regels", link: "https://docs.google.com/document/d/1E5uJpI4kiDSeplWGKEwJ475EkW5C9O8tqX3W4oS1dqs/edit?usp=sharing" },
-				]
+					{
+						text: "Regels",
+						link: "https://docs.google.com/document/d/1E5uJpI4kiDSeplWGKEwJ475EkW5C9O8tqX3W4oS1dqs/edit?usp=sharing",
+					},
+				],
+			},
+			{
+				text: "Developers",
+				items: [
+					{
+						text: "Articca",
+						items: [{ text: "Vulpic", link: "/devs/articca/vulpic" }],
+					},
+				],
 			},
 		],
 
