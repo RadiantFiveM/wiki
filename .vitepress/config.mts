@@ -21,7 +21,6 @@ export default defineConfig({
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		nav: [
-			{ text: "Home", link: "/" },
 			{
 				text: "Eerste bezoek",
 				items: [
@@ -36,6 +35,15 @@ export default defineConfig({
 					{ text: "Parkeren", link: "/parkeren" },
 					{ text: "De bank", link: "/bank" },
 					{ text: "Het depot", link: "/depot" },
+					//{ text: "Tanken", link: "/tanken" },
+				],
+			},
+			{
+				text: "Werk & Vrijetijd",
+				items: [
+					{ text: "Casino", link: "/casino" },
+					//{ text: "Geocache", link: "/geocache" },
+					//{ text: "Schatzoeken", link: "/schatzoeken" },
 				],
 			},
 			{
@@ -86,6 +94,15 @@ export default defineConfig({
 					{ text: "Parkeren", link: "/parkeren" },
 					{ text: "De bank", link: "/bank" },
 					{ text: "Het depot", link: "/depot" },
+					//{ text: "Tanken", link: "/tanken" },
+				],
+			},
+			{
+				text: "Werk & Vrijetijd",
+				items: [
+					{ text: "Casino", link: "/casino" },
+					//{ text: "Geocache", link: "/geocache" },
+					//{ text: "Schatzoeken", link: "/schatzoeken" },
 				],
 			},
 			{
