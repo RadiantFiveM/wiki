@@ -35,7 +35,7 @@ export default defineConfig({
 					{ text: "Parkeren", link: "/parkeren" },
 					{ text: "De bank", link: "/bank" },
 					{ text: "Het depot", link: "/depot" },
-					//{ text: "Tanken", link: "/tanken" },
+					{ text: "Tanken", link: "/tanken" },
 				],
 			},
 			{
@@ -94,7 +94,7 @@ export default defineConfig({
 					{ text: "Parkeren", link: "/parkeren" },
 					{ text: "De bank", link: "/bank" },
 					{ text: "Het depot", link: "/depot" },
-					//{ text: "Tanken", link: "/tanken" },
+					{ text: "Tanken", link: "/tanken" },
 				],
 			},
 			{
