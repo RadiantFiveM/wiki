@@ -19,6 +19,7 @@ Hier vind je een overzicht van de verschillende onderwerpen die je in de wiki ka
 - [Parkeren](/parkeren.md)
 - [De bank](/bank.md)
 - [Het depot](/depot.md)
+- [Valet](/valet.md)
 
 ### Werk & Vrijetijd
 - [Casino](/casino.md)

@@ -36,7 +36,7 @@ export default defineConfig({
 					{ text: "De bank", link: "/bank" },
 					{ text: "Het depot", link: "/depot" },
 					{ text: "Tanken", link: "/tanken" },
-					//{ text: "Valet", link: "/valet" },
+					{ text: "Valet", link: "/valet" },
 				],
 			},
 			{
