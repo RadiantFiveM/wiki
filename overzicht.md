@@ -20,6 +20,9 @@ Hier vind je een overzicht van de verschillende onderwerpen die je in de wiki ka
 - [De bank](/bank.md)
 - [Het depot](/depot.md)
 
+### Werk & Vrijetijd
+- [Casino](/casino.md)
+
 ### De Hulpdiensten
 - [Politie](/politie.md)
 - [Ambulance](/ambulance.md)
