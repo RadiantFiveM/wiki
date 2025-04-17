@@ -24,6 +24,7 @@ Hier vind je een overzicht van de verschillende onderwerpen die je in de wiki ka
 
 ### Werk & Vrijetijd
 - [Casino](/casino.md)
+- [Geocache](/geocache.md)
 
 ### De Hulpdiensten
 - [Politie](/politie.md)

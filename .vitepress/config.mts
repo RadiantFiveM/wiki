@@ -43,8 +43,9 @@ export default defineConfig({
 				text: "Werk & Vrijetijd",
 				items: [
 					{ text: "Casino", link: "/casino" },
-					//{ text: "Geocache", link: "/geocache" },
+					{ text: "Geocache", link: "/geocache" },
 					//{ text: "Schatzoeken", link: "/schatzoeken" },
+					//{ text: "Winkels", link: "/winkels" },
 				],
 			},
 			{
@@ -96,14 +97,16 @@ export default defineConfig({
 					{ text: "De bank", link: "/bank" },
 					{ text: "Het depot", link: "/depot" },
 					{ text: "Tanken", link: "/tanken" },
+					{ text: "Valet", link: "/valet" },
 				],
 			},
 			{
 				text: "Werk & Vrijetijd",
 				items: [
 					{ text: "Casino", link: "/casino" },
-					//{ text: "Geocache", link: "/geocache" },
+					{ text: "Geocache", link: "/geocache" },
 					//{ text: "Schatzoeken", link: "/schatzoeken" },
+					//{ text: "Winkels", link: "/winkels" },
 				],
 			},
 			{
