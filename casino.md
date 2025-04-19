@@ -18,8 +18,7 @@ Ook in Radiant heb je de mogelijkheid om er een te bezoeken. Rechts bovenin Los 
 - En meer!
 
 ## Het Lucky Wheel
-In het Casino vind je in het midden van de hoofdzaal een groot rad met verschillende prijzen. Daar kun je elke 24 (real life) uur aan draaien voor een leuke prijs. Wat je moet doen is het volgende: je loopt op het rad af, houdt je alt-spier ingedrukt en selecteert de optie om aan het rad te draaien. Je zal dan zien dat je karakter klaar gaat staan. Links bovenin je scherm zie je de instructie om E in te drukken. Dat doen resulteert in dat je karakter's arm iets omhoog beweegt om zich voor te bereiden. Vervolgens verschijnt rechts onderin het scherm een krachtmeter. Nogmaals op E drukken zorgt dat je daadwerkelijk draait.
-
+In het Casino vind je in het midden van de hoofdzaal een groot rad met verschillende prijzen. Daar kun je elke 24 (real life) uur aan draaien voor een leuke prijs. Wat je moet doen is het volgende: je loopt op het rad af, houdt je alt-spier ingedrukt en selecteert de optie om aan het rad te draaien. Je zal dan zien dat je karakter klaar gaat staan. Links bovenin je scherm zie je de instructie om E in te drukken. Dat doen resulteert in dat de arm van je karakter iets omhoog beweegt om zich voor te bereiden. Vervolgens verschijnt rechts onderin het scherm een krachtmeter. Nogmaals op E drukken zorgt dat je daadwerkelijk draait.
 Je kan bij het Lucky Wheel vanalles winnen. Ja kan bijvoorbeeld bedragen van minimaal €250,- ingame geld krijgen, maar ook een random prijs, een mate aan gratis drinken, of juist iets spectaculairders dan dat. Wie weet, misschien weet je het voertuig wel te bemachtigen dat prominent in zijn eigen hoek van de zaal tentoongesteld wordt... Des te vaker je komt draaien, des te groter de kans dat jij de gelukkige winnaar bent!
 
 ## De balie
